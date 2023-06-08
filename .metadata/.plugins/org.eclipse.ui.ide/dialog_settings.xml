@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="org.eclipse.egit.mylyn:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.egit:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.emf.common:2.19.0.v20200324-0932"/>
+		<item value="org.eclipse.emf.compare:3.3.13.202011241436"/>
+		<item value="org.eclipse.emf.ecore:2.22.0.v20200519-1135"/>
+		<item value="org.eclipse.jgit.gpg.bc:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit.http.apache:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit.ssh.apache:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit.ssh.jsch:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.jgit:5.8.0.202006091008-r"/>
+		<item value="org.eclipse.mylyn.bugzilla_feature:3.25.1.v20200512-0316"/>
+		<item value="org.eclipse.mylyn.commons.identity:1.17.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.commons.notifications:1.17.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.commons.repositories:1.17.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.commons:3.25.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.context_feature:3.25.1.v20200512-2113"/>
+		<item value="org.eclipse.mylyn.discovery:3.25.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.ide_feature:3.25.1.v20200512-2113"/>
+		<item value="org.eclipse.mylyn.monitor:3.25.1.v20200511-1958"/>
+		<item value="org.eclipse.mylyn.tasks.ide:3.25.1.v20200512-0316"/>
+		<item value="org.eclipse.mylyn.team_feature:3.25.1.v20200512-2113"/>
+		<item value="org.eclipse.mylyn_feature:3.25.1.v20200514-1748"/>
+		<item value="org.eclipse.rcp:4.16.0.v20200604-0951"/>
+		<item value="org.eclipse.team.svn.mylyn:4.0.0.I20160226-1700"/>
+		<item value="org.eclipse.team.svn:4.0.5.I20170425-1700"/>
+		<item value="org.eclipse.wst.json_ui.feature:1.1.8.v202004230532"/>
+	</list>
+</section>
