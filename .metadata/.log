@@ -1321,3 +1321,48 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2023-06-08 14:01:32.023
 !MESSAGE Invalid property category path: ValidationPropertiesPage (bundle: org.eclipse.wst.json.ui, propertyPage: org.eclipse.wst.json.ui.propertyPage.project.validation)
+
+!ENTRY org.eclipse.ui.ide 4 4 2023-06-08 14:04:58.629
+!MESSAGE File toolbar contribution item is missing
+
+!ENTRY com.provar.eclipse.ui 4 4 2023-06-08 14:04:58.693
+!MESSAGE Test Project Errors: Please correct the following Test Project setup issues:
+
+1.  The 'tests' folder is missing.
+
+2.  The 'META-INF' folder is missing.
+
+3.  The 'src' folder is missing.
+
+!ENTRY org.eclipse.ui.ide 4 4 2023-06-08 14:05:04.273
+!MESSAGE File toolbar contribution item is missing
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:04.483
+!MESSAGE Processing new TestCase.  Name:  Test Case 1.testcase, isTestCase: true
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:04.487
+!MESSAGE Processing new TestCase.  Name:  sample_test.testcase, isTestCase: true
+
+!ENTRY org.eclipse.ui.ide 4 4 2023-06-08 14:05:06.005
+!MESSAGE File toolbar contribution item is missing
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.604
+!MESSAGE End of updateTestApis.  testPlugin: salesforce, added count: 0, removed count: 0
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.606
+!MESSAGE End of sendWebComponentUpdate.  added count: 0, modified count: 0, removed count: 0
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.610
+!MESSAGE End of sendPageStrategyUpdate.  added count: 0, modified count: 0, removed count: 0
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.613
+!MESSAGE End of sendPageWaitUpdate.  added count: 0, modified count: 0, removed count: 0
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.621
+!MESSAGE End of sendPageControlUpdate.  added count: 0, modified count: 0, removed count: 0
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.624
+!MESSAGE End of sendPageObjectUpdate.  added count: 0, modified count: 1, removed count: 0
+
+!ENTRY com.provar.eclipse.ui 1 1 2023-06-08 14:05:06.794
+!MESSAGE Validate test cases - end.  Validated count: 2, skipped count: 0, duration(ms): 169
